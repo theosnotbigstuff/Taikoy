@@ -3,6 +3,7 @@
 # Welcome To Taikoy!
 Taikoy is a rythym game featuring the same Don's and Ka's as Taiko no tatsujin similar to game modes in OSU! such as osu!taiko, since Taiko no tatsujin is costly to some and getting the tgaplayer up and running is hard I decided to make a client.
 # How to run the program
-https://www.youtube.com/watch?v=vN2upDrRego
+[https://www.youtube.com/watch?v=vN2upDrRego](https://www.youtube.com/watch?v=LxBiiUVUEUE)
 
-# User interface<img width="1920" height="1080" alt="New Project (60)" src="https://github.com/user-attachments/assets/9a04e75e-2fd6-435f-b035-3f8e7733732f" />
+# Taikoy Changes ALOT
+The Taikoy UI design may change ALOT depending on what I think before stable release
