@@ -1,7 +1,7 @@
-# <img height="200" alt="github-taikoylogo" src="https://github.com/user-attachments/assets/0566983d-9cb1-469c-839d-56c5f1977896" />
+# <img height="200" alt="github-turbologo" src="https://github.com/user-attachments/assets/0566983d-9cb1-469c-839d-56c5f1977896" />
 
 <h3> Description </h3>
-Here is the logos you should use for taikoy.
+Here is the logos you should use for TurboTaiko.
 
 #
 
