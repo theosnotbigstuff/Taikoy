@@ -1,4 +1,4 @@
-# <img width="506" height="200" alt="logo" src="https://github.com/user-attachments/assets/7481ec29-fd5e-40a7-984c-50bbd896a752" />
+# <img height="200" alt="logo" src="https://github.com/user-attachments/assets/7481ec29-fd5e-40a7-984c-50bbd896a752" />
 
 <h3> Description </h3>
 TurboTaiko is a taiko clone made in Scratch, made to be open source for your enjoyment! (in a later release)
