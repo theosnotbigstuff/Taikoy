@@ -19,7 +19,7 @@ Taikoy is a taiko clone made in Scratch, made to be open source for your enjoyme
 
 <h2> Links </h2>
 <p> <a href="https://github.com/theosnotbigstuff/Taikoy/tags">Download</a> </p>
-<p> <a href="https://github.com/theosnotbigstuff/Taikoy/blob/main/Logo%20Guide">Logo Guide</a> </p>
+<p> <a href="https://github.com/theosnotbigstuff/Taikoy/blob/main/Logo%20Guide](https://github.com/theosnotbigstuff/Taikoy/blob/main/logoguide.md">Logo Guide</a> </p>
 <p> <a href="https://github.com/theosnotbigstuff/Taikoy/issues">Add a issue!</a> </p>
 
 #
