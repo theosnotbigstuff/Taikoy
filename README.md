@@ -21,6 +21,7 @@ TurboTaiko (formerly Taikoy) is a taiko clone made in Scratch, made to be open s
 <p> <a href="https://github.com/theosnotbigstuff/TurboTaiko/tags">Download</a> </p>
 <p> <a href="https://github.com/theosnotbigstuff/TurboTaiko/blob/main/logoguide.md">Logo's </a> </p>
 <p> <a href="https://github.com/theosnotbigstuff/TurboTaiko/issues">Add a issue!</a> </p>
+<p> <a href="https://www.youtube.com/@TurboTaiiko">YouTube</a> </p>
 
 #
 <img height="60" alt="BadgeWindows" src="https://github.com/user-attachments/assets/f79c0aaa-96a6-42f1-987d-8081e5abe715" />
