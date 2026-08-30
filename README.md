@@ -1,4 +1,6 @@
-# <img height="200" alt="logo" src="https://github.com/user-attachments/assets/7481ec29-fd5e-40a7-984c-50bbd896a752" />
+<div align="center">
+<h3> << This is the beta builds for taikoy, please download expecting bugs >> </h3>
+<img height="200" alt="taychronlogo" src="https://github.com/user-attachments/assets/0554b3e3-2d34-470c-972e-b0a6f1d98c33" />
 
 <h3> Description </h3>
 TurboTaiko (formerly Taikoy) is a taiko clone made in Scratch, made to be open source for your enjoyment! (in a later release)
