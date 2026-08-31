@@ -22,6 +22,5 @@ Here is the logos you should use for TurboTaiko.
 <img height="200" alt="taychronlogo" src="https://github.com/user-attachments/assets/24056f49-7794-44e3-be8f-213091288e77" />
 
 <h3> Beta Icon </h3>
-<img height="200![Uploading logoguide (1).png…]()
-" alt="taychronicon" src="https://github.com/user-attachments/assets/c71e4837-d4a6-4d71-82d9-bc0cd3ffee07" />
+<img height="200" alt="taychronicon" src="https://github.com/user-attachments/assets/c71e4837-d4a6-4d71-82d9-bc0cd3ffee07" />
 <hr>
