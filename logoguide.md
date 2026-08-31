@@ -1,4 +1,5 @@
-# <img height="200" alt="github-turbologo" src="https://github.com/user-attachments/assets/0566983d-9cb1-469c-839d-56c5f1977896" />
+<div align="center">
+<img height="200" alt="logoguide (1)" src="https://github.com/user-attachments/assets/58079572-f6f4-46a8-8d94-12fc47944117" />
 
 <h3> Description </h3>
 Here is the logos you should use for TurboTaiko.
@@ -16,4 +17,11 @@ Here is the logos you should use for TurboTaiko.
 <img height="200" alt="taikoy-icon-fullcolor" src="https://github.com/user-attachments/assets/63006751-8878-41cf-bb41-5955829181de" />
 <img height="200" alt="taikoy-icon-white" src="https://github.com/user-attachments/assets/cc6d1c95-6179-4ff8-bf1c-509814358487" />
 <img height="200" alt="taikoy-icon-black" src="https://github.com/user-attachments/assets/2874a80a-2604-4360-8b4d-b70070f90473" />
+
+<h3> Beta Full Logo </h3>
+<img height="200" alt="taychronlogo" src="https://github.com/user-attachments/assets/24056f49-7794-44e3-be8f-213091288e77" />
+
+<h3> Beta Icon </h3>
+<img height="200![Uploading logoguide (1).png…]()
+" alt="taychronicon" src="https://github.com/user-attachments/assets/c71e4837-d4a6-4d71-82d9-bc0cd3ffee07" />
 <hr>
